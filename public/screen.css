@@ -18,3 +18,9 @@ p {
   text-indent: 25px;
   font-family: "Helvetica", cursive, sans-serif;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
